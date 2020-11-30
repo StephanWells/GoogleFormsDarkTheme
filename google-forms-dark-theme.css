@@ -1,0 +1,1130 @@
+.freebirdFormeditorViewHeaderHeaderMast {
+    background-color: #151617;
+    border-color: black;
+}
+.freebirdFormeditorViewHeaderDocTitle .exportInput, .freebirdFormeditorViewHeaderTitleSizer {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #dee0e3;
+}
+.freebirdFormeditorViewResponsesHeader {
+    background-color: #151617;
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    overflow: hidden;
+}
+.m2 .freebirdFormviewerViewItemsItemItemTitle {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: .1px;
+    line-height: 24px;
+    color: #dadce0;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+}
+.m2 .freebirdMaterialScalecontentLabel, .m2 .freebirdMaterialScalecontentRangeLabel {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dadce0;
+    padding: 0 5px;
+}
+.m2 .freebirdFormviewerViewItemsItemItemHelpText {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .3px;
+    line-height: 16px;
+    color: #70757a;
+    line-height: 135%;
+    margin-top: 4px;
+    width: 100%;
+}
+.m2 .freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextDisabledText {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dadce0;
+    border-bottom: 1px dotted #70757a;
+    min-height: 20px;
+    margin: 0;
+    white-space: pre-wrap;
+}
+.m2 .freebirdAnalyticsViewNoResponses {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .3px;
+    line-height: 16px;
+    color: #70757a;
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    text-align: center;
+}
+.m2 .freebirdFormeditorViewResponsesQuestionviewQuestionQuestionTitle {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #dadce0;
+    min-width: 0%;
+    padding: 0;
+}
+.freebirdFormeditorViewResponsesBottomRow.freebirdFormeditorViewResponsesDisabled .freebirdFormeditorViewResponsesAcceptingResponsesToggleContainer {
+    background-color: #330b0b;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-ordinal-group: 0;
+    -webkit-order: 0;
+    order: 0;
+    padding: 0 20px;
+    width: 100%;
+}
+.freebirdFormeditorViewResponsesResponsesCount {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #dee0e3;
+    padding: 20px 24px 0;
+}
+.appsMaterialWizMenuPapermenubuttonEl {
+    color: #70757a;
+}
+.freebirdFormeditorViewResponsesCustomMessageLabel {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    font-weight: 500;
+}
+.freebirdFormeditorViewResponsesCustomMessage .exportTextarea {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+}
+.m2 .freebirdFormviewerViewHeaderTitle {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #dee0e3;
+    line-height: 135%;
+    max-width: 100%;
+    min-width: 0%;
+}
+.m2 .freebirdAnalyticsViewLoadingMessage .freebirdAnalyticsViewLabel {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    margin-left: 16px;
+    white-space: nowrap;
+}
+.appsMaterialWizMenuPaperselectOption {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    max-width: 280px;
+    min-width: 112px;
+    padding-right: 48px;
+}
+.freebirdFormviewerViewSubmissionDate {
+    color: #70757a;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    font-size: 12px;
+    font-style: italic;
+    box-pack: end;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    padding: 0 10px 10px 0;
+}
+.m2 .freebirdFormviewerViewHeaderDescription {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    margin-top: 12px;
+}
+.m2 .freebirdAnalyticsViewQuestionTitle {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: .1px;
+    line-height: 24px;
+    color: #dee0e3;
+    font-weight: 400;
+    max-width: 100%;
+    min-width: 0%;
+    word-break: break-word;
+}
+.m2 .freebirdFormeditorViewQuestionBodyScalebodyBoundDisplay {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    margin: 4px 10px 0 0;
+    width: 20px;
+}
+.m2 .freebirdFormeditorViewQuestionBodyScalebodyLabelInput .exportTextarea, .m2 .freebirdFormeditorViewQuestionBodyScalebodyLabelInput .exportInput {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+}
+.m2 .freebirdFormeditorViewQuestionBodyScalebodySelectDivider {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    margin: 0 10px;
+}
+.m2 .freebirdFormeditorViewOmnilistItemValueInput .exportInput, .m2 .freebirdFormeditorViewOmnilistItemValuePlaceholder {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+}
+.appsMaterialWizButtonPaperbuttonTextColored, .appsMaterialWizButtonPaperbuttonTextColored .exportButtonNestedLink {
+    color: #04acb8;
+}
+.m2 .freebirdFormeditorViewPageTitleInput .exportTextarea {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #dee0e3;
+    line-height: 135%;
+    width: 100%;
+}
+.quantumWizMenuPaperselectOption {
+    color: #dee0e3;
+}
+.freebirdFormviewerComponentsQuestionBaseTitle {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: .1px;
+    line-height: 24px;
+    color: #dee0e3;
+    font-weight: 400;
+    width: 100%;
+    word-break: break-word;
+}
+.m2 .freebirdFormeditorViewItemTitleInput .exportPlaceholder, .m2 .freebirdFormeditorViewItemTitleInput .exportTextarea, .m2 .freebirdFormeditorViewItemTitleSizer {
+    color: #dee0e3;
+}
+.m2 .freebirdFormeditorViewPageDescriptionInput .exportTextarea, .m2 .freebirdFormeditorViewPageMinimizedDescription {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    line-height: 135%;
+    width: 100%;
+}
+.m2 .freebirdCommonAnalyticsResponseSummaryChip, .m2 .freebirdCommonAnalyticsTextResponse {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+    background-color: #202124;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    margin: 4px 0 0;
+    padding: 10px;
+}
+.m2 .freebirdAnalyticsViewQuestionResponsesCount {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .3px;
+    line-height: 16px;
+    color: #70757a;
+    padding-top: 8px;
+}
+.m2 .freebirdFormeditorViewItemHelpTextInput .exportTextarea {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .3px;
+    line-height: 16px;
+    color: #70757a;
+    min-height: 20px;
+}
+.m2 .freebirdFormeditorViewQuestionFooterToggleLabel {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #70757a;
+    cursor: default;
+    margin-right: 12px;
+    -webkit-user-select: none;
+}
+.freebirdFormviewerComponentsQuestionBaseDescription {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .3px;
+    line-height: 16px;
+    color: #70757a;
+    line-height: 135%;
+    margin-top: 4px;
+    width: 100%;
+}
+.m2 .freebirdFormviewerViewNavigationPasswordWarning {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .3px;
+    line-height: 16px;
+    color: #70757a;
+    margin-top: 8px;
+}
+.m2 .freebirdFormeditorViewResponsesQuestionviewItemsLongText {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #dee0e3;
+}
+.quantumWizTextinputPapertextareaInput {
+    color: #dee0e3;
+}
+.freebirdFormeditorViewResponsesCustomMessageContainer {
+    border: 1px solid #dadce0;
+    border-color: black;
+    border-top: none;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: none;
+    margin-bottom: 16px;
+    padding: 16px 20px 24px;
+    width: 100%;
+}
+.m2 .freebirdAnalyticsViewLoadingMessageContainer {
+    background-color: #151617;
+    border: 1px solid black;
+}
+.m2 .freebirdFormeditorViewResponsesQuestionviewQuestionSelector {
+    border: 1px solid #3C4043;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+.m2 .freebirdFormeditorViewItemTypechooserTypeChooserSelect {
+    background-color: transparent;
+    border: 1px solid #3C4043;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+}
+.m2 .freebirdFormeditorViewQuestionFooterFooterRow {
+    border-top: 1px solid #3C4043;
+}
+.docssharedWizOmnilistItemRoot {
+    background-color: #151617;
+}
+.appsMaterialWizTextinputTextareaFilled .appsMaterialWizTextinputTextareaMainContent {
+    background-color: #202124 !important;
+    -webkit-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+}
+.m2 .freebirdFormeditorViewResponsesNavigationPositionInput .exportInput, .m2 
+.freebirdFormeditorViewResponsesNavigationPositionText {
+    color: #dee0e3 !important;
+}
+.appsMaterialWizMenuPapermenuMenu .exportMenuContent {
+    max-width: 100%;
+    min-width: 0!important;
+    padding: 8px 0;
+    background-color:#202124;
+    color: #dee0e3;
+}
+.m2 .freebirdFormeditorViewItemContentWrapper {
+    background-color: #151617;
+    border: 1px solid black;
+}
+.m2 .freebirdFormeditorViewFatCard {
+    box-shadow: 0 2px 1px -1px rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.141), 0 1px 3px 0 rgba(0,0,0,0.122);
+    transition: box-shadow 280ms cubic-bezier(0.4,0.0,0.2,1);
+    background-color: #151617;
+    border: 1px solid black;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+}
+.appsMaterialWizTextinputTextareaInput {
+    caret-color: #dee0e3;
+}
+.appsMaterialWizMenuPapermenuNotDense .appsMaterialWizMenuPapermenuItem .exportContent {
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: .1px;
+    height: 48px;
+    line-height: 48px;
+    color: #dee0e3;
+}
+.quantumWizMenuPapermenuMenuItem.quantumWizMenuPapermenuOption.isChecked.appsMaterialWizMenuPapermenuItem.docsWizActionMenuMenuItem {
+    background-color:#202124;
+}
+.quantumWizMenuPapermenuMenuItem.isChecked::before {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transform-origin: left;
+    transform-origin: left;
+    content: "\0000a0";
+    display: block;
+    border-right: 2px solid #dee0e3;
+    border-bottom: 2px solid #dee0e3;
+    height: 16px;
+    left: 24px;
+    opacity: .54;
+    position: absolute;
+    top: 13%;
+    width: 7px;
+    z-index: 0;
+}
+.freebirdFormviewerViewHeaderCard {
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-top: 12px;
+}
+.freebirdFormviewerComponentsQuestionBaseRoot {
+    -webkit-transition: background-color 200ms cubic-bezier(0.0,0.0,0.2,1);
+    transition: background-color 200ms cubic-bezier(0.0,0.0,0.2,1);
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    page-break-inside: avoid;
+    word-wrap: break-word;
+}
+.quantumWizMenuPapermenuMenuItem.appsMaterialWizMenuPapermenuItem.docsWizActionMenuMenuItem.isHighlighted {
+    background-color:#04acb8 !important;
+}
+.quantumWizMenuPaperselectPopup {
+    -webkit-transition: opacity .1s linear;
+    transition: opacity .1s linear;
+    background: #202124;
+    border: 0;
+    -webkit-box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+    opacity: 0;
+    outline: 1px solid transparent;
+    overflow: hidden;
+    overflow-y: auto;
+    position: fixed;
+    z-index: 2000;
+}
+.quantumWizMenuPaperselectPopup .quantumWizMenuPaperselectOption.isSelected {
+    background-color: #04acb8;
+    border-style: dotted;
+    border-width: 1px 0;
+    outline: 1px solid transparent;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+.appsMaterialWizMenuPaperselectSelect .exportSelectPopup .exportOption[aria-selected="true"] {
+    background-color: #202124;
+}
+.m2 .freebirdAnalyticsViewAnalyticsContainer {
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    max-width: 100%;
+    min-width: 0%;
+    padding: 12px 12px 24px 24px;
+}
+.m2 .freebirdFormeditorViewResponsesRecordviewResponseControlsContainer {
+    -webkit-box-align: center;
+    box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    background-color: #151617;
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    box-pack: justify;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    padding: 0;
+}
+.m2 .freebirdFormeditorViewResponsesQuestionviewQuestionClusterGrouping {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    margin-top: 12px;
+    padding: 0;
+}
+.m2 .freebirdFormeditorViewPagePageFields {
+    box-shadow: 0 2px 1px -1px rgba(0,0,0,0.2), 0 1px 1px 0 rgba(0,0,0,0.141), 0 1px 3px 0 rgba(0,0,0,0.122);
+    transition: box-shadow 280ms cubic-bezier(0.4,0.0,0.2,1);
+    border: 1px solid black;
+    border-radius: 8px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    background-color: #151617;
+    position: relative;
+}
+.m2 .freebirdFormeditorViewResponsesQuestionviewFooterArrows {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    padding: 12px;
+}
+.m2 .freebirdFormeditorViewResponsesQuestionviewNavigationContainer {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    box-pack: start;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+    margin-top: 0;
+    padding: 24px 12px 24px 24px;
+}
+.m2 .freebirdFormeditorViewResponsesQuestionviewQuestionQuestionViewCard {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    box-pack: justify;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    min-height: 40px;
+}
+.freebirdHeaderCard.freebirdEditorHeaderCard {
+    max-height: 24.89539748953975vw;
+    max-width: 100vw;
+    height: 191.69456066945608px;
+    width: 770px;
+    border-color: black;
+}
+.freebirdThemedTab .exportTab .freebirdThemedBadge {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.m2 .freebirdThemedTab .exportTab .freebirdThemedBadge {
+    background-color: #3C4043;
+}
+.freebirdThemedTab .exportTab.isSelected .freebirdThemedBadge {
+    background-color: #04acb8;
+}
+.m2 .freebirdThemedTab .exportTab.isDisabled .freebirdThemedBadge {
+    background-color: #70757a;
+}
+.freebirdThemedCheckbox.isChecked:not(.isDisabled),
+.freebirdThemedCheckbox.isIndeterminate:not(.isDisabled) {
+    border-color: #04acb8;
+}
+
+.freebirdFormeditorViewCursorColor {
+    background-color: #04acb8 !important;
+}
+.freebirdThemedCheckbox.isCheckedNext > .exportInk,
+.freebirdThemedCheckbox.isFocused > .exportInk {
+    background-color: #151617;
+    border-color: black;
+}
+.freebirdThemedCheckbox.freebirdThemedCheckbox:hover > .exportInk {
+    background-color: rgba(4, 172, 184, 0.04);
+}
+.freebirdThemedCheckbox.freebirdThemedCheckbox:focus > .exportInk {
+    background-color: rgba(4, 172, 184, 0.15);
+}
+.freebirdThemedCheckboxDarkerDisabled.isChecked.isDisabled,
+.freebirdThemedCheckboxDarkerDisabled.isIndeterminate.isDisabled {
+    border-color: #04acb8
+}
+.freebirdThemedCheckboxDarkerDisabled.isDisabled:not(.isChecked):not(.isIndeterminate) {
+    border-color: rgba(0, 0, 0, .26);
+}
+.freebirdQuizResponse .freebirdThemedCheckboxDarkerDisabled.isChecked.isDisabled,
+.freebirdQuizResponse .freebirdThemedCheckboxDarkerDisabled.isIndeterminate.isDisabled,
+.takeout .freebirdThemedCheckboxDarkerDisabled.isDisabled {
+    border-color: rgba(0, 0, 0, .54);
+}
+.m2 .freebirdThemedCheckboxDarkerDisabled.isChecked.isDisabled,
+.m2 .freebirdThemedCheckboxDarkerDisabled.isIndeterminate.isDisabled {
+    border-color: #04acb8;
+}
+.m2 .freebirdThemedCheckboxDarkerDisabled.isDisabled:not(.isChecked):not(.isIndeterminate) {
+    border-color: #9AA0A6;
+}
+.m2 .freebirdQuizResponse .freebirdThemedCheckboxDarkerDisabled.isChecked.isDisabled,
+.m2 .freebirdQuizResponse .freebirdThemedCheckboxDarkerDisabled.isIndeterminate.isDisabled,
+.m2 .takeout .freebirdThemedCheckboxDarkerDisabled.isDisabled {
+    border-color: #5F6368;
+}
+.freebirdThemedRadio.isChecked:not(.isDisabled) .exportOuterCircle,
+.freebirdThemedRadio .exportInnerCircle {
+    border-color: #04acb8;
+}
+.freebirdThemedRadio .isChecked:not(.isDisabled) .exportOuterCircle {
+    border-color: #04acb8;
+}
+.freebirdThemedRadio.isCheckedNext > .exportInk,
+.freebirdThemedRadio.isFocused > .exportInk {
+    background-color: rgba(4, 172, 184, 0.15);
+}
+.freebirdThemedRadio :not(.isDisabled):hover > .exportInk {
+    background-color: rgba(4, 172, 184, 0.04);
+}
+.freebirdThemedRadio :not(.isDisabled):focus > .exportInk {
+    background-color: rgba(4, 172, 184, 0.15);
+}
+.freebirdThemedRadioDarkerDisabled.isChecked.isDisabled .exportOuterCircle,
+.freebirdThemedRadioDarkerDisabled.isChecked.isDisabled .exportInnerCircle {
+    border-color: #04acb8;
+}
+.freebirdThemedRadioDarkerDisabled.isDisabled:not(.isChecked) .exportOuterCircle {
+    border-color: rgba(0, 0, 0, .26);
+}
+.m2 .freebirdFormviewerViewItemsItemItem {
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    margin-top: 0;
+    page-break-inside: avoid;
+}
+.freebirdQuizResponse .freebirdThemedRadioDarkerDisabled.isChecked.isDisabled .exportOuterCircle,
+.freebirdQuizResponse .freebirdThemedRadioDarkerDisabled.isChecked.isDisabled .exportInnerCircle,
+.takeout .freebirdThemedRadioDarkerDisabled.isDisabled .exportOuterCircle {
+    border-color: rgba(0, 0, 0, .54);
+}
+.m2 .freebirdThemedRadioDarkerDisabled .isChecked.isDisabled .exportOuterCircle,
+.m2 .freebirdThemedRadioDarkerDisabled .isChecked.isDisabled .exportInnerCircle {
+    border-color: #04acb8;
+}
+.m2 .freebirdThemedRadioDarkerDisabled .isDisabled:not(.isChecked) .exportOuterCircle {
+    border-color: #9AA0A6;
+}
+.m2 .freebirdQuizResponse .freebirdThemedRadioDarkerDisabled .isChecked.isDisabled .exportOuterCircle,
+.m2 .freebirdQuizResponse .freebirdThemedRadioDarkerDisabled .isChecked.isDisabled .exportInnerCircle,
+.m2 .takeout .freebirdThemedRadioDarkerDisabled .isDisabled .exportOuterCircle {
+    border-color: #5F6368;
+}
+.freebirdThemedRadioRow > :first-child {
+    border-left: transparent solid 5px;
+}
+.freebirdThemedRadioRow.isChecked {
+    background-color: rgb(217, 219, 226);
+}
+.freebirdThemedRadioRow.isChecked > :first-child {
+    border-left-color: #04acb8;
+}
+.freebirdThemedSelectOptionDarkerDisabled.isSelected.isDisabled {
+    color: rgba(0, 0, 0, .87);
+}
+.freebirdThemedSelectOptionDarkerDisabled.isSelected.isDisabled {
+    color: #5F6368;
+}
+.freebirdThemedFlatButton .exportInk {
+    background-image: radial-gradient( circle farthest-side, rgba(4, 172, 184, 0.15), rgba(4, 172, 184, 0.15) 80%, rgba(4, 172, 184, 0) 100%);
+}
+.freebirdThemedFlatButton {
+    color: #04acb8;
+}
+.freebirdThemedFlatButton.isDisabled {
+    color: rgba(4, 172, 184, 0.5);
+}
+.freebirdThemedFlatButton.isFocused .exportOverlay {
+    background-color: rgba(4, 172, 184, 0.15);
+}
+.freebirdThemedFlatButtonInverted .exportInk {
+    background-image: radial-gradient( circle farthest-side, rgba(255, 255, 255, .3), rgba(255, 255, 255, .3) 80%, rgba(255, 255, 255, 0) 100%);
+}
+.freebirdThemedFlatButtonInverted {
+    background-color: #04acb8;
+    color: rgba(255, 255, 255, 1);
+}
+.freebirdThemedFlatButtonInverted.isDisabled {
+    color: rgba(255, 255, 255, 1);
+    opacity: .54;
+}
+.freebirdThemedFlatButtonInverted a .exportLabel {
+    color: rgba(255, 255, 255, 1);
+}
+.freebirdThemedFlatButtonInverted.isFocused .exportOverlay {
+    background-color: rgba(255, 255, 255, .3);
+}
+.freebirdThemedFilledButtonM2 {
+    background-color: #04acb8;
+}
+.freebirdThemedFilledButtonM2 .exportButtonNestedLink,
+.freebirdThemedFilledButtonM2 .exportButtonNestedLink:hover,
+.freebirdThemedFilledButtonM2 .exportButtonNestedLink:link,
+.freebirdThemedFilledButtonM2 .exportButtonNestedLink:visited {
+    background-color: #04acb8;
+}
+.freebirdThemedFilledButtonM2:hover {
+    box-shadow: 0px 2px 1px -1px rgba(4, 172, 184, 0.2), 0px 1px 1px 0px rgba(4, 172, 184, 0.14), 0px 1px 3px 0px rgba(4, 172, 184, 0.12);
+}
+.freebirdThemedFilledButtonM2.isDisabled:hover {
+    box-shadow: none;
+}
+.freebirdThemedFilledButtonM2.isActive.isActive {
+    box-shadow: 0px 3px 5px -1px rgba(4, 172, 184, 0.2), 0px 6px 10px 0px rgba(4, 172, 184, 0.14), 0px 1px 18px 0px rgba(4, 172, 184, 0.12);
+}
+.freebirdThemedProtectedButtonM2 {
+    color: #04acb8;
+}
+.freebirdThemedProtectedButtonM2 .exportOverlay {
+    background-color: #04acb8;
+}
+.freebirdThemedProtectedButtonM2 .exportInk {
+    background-image: radial-gradient( circle farthest-side, rgba(4, 172, 184, 0.15), rgba(4, 172, 184, 0.15) 80%, rgba(4, 172, 184, 0) 100%);
+}
+.freebirdThemedNavTitle {
+    color: rgb(91, 98, 104);
+}
+.freebirdThemedNavDash {
+    border-color: rgb(91, 98, 104);
+}
+.freebirdThemedNav .exportTab {
+    color: rgb(91, 98, 104);
+}
+.freebirdThemedNav .exportTab.isSelected {
+    background-color: rgba(4, 172, 184, 0.15);
+    color: #04acb8;
+}
+.freebirdThemedNav .exportTab.isSelected.isDisabled {
+    background-color: rgba(189, 189, 189, .38);
+    ;
+    color: #9AA0A6;
+}
+.freebirdThemedNav .freebirdNavIcon {
+    fill: rgb(91, 98, 104);
+}
+.freebirdThemedNav .isSelected .freebirdNavIcon {
+    fill: #04acb8;
+}
+.freebirdThemedNav .isDisabled .freebirdNavIcon,
+.freebirdThemedNav .isSelected.isDisabled.freebirdNavIcon {
+    fill: #9AA0A6;
+}
+.freebirdThemedTabGroup .exportTabPageButton {
+    fill: #04acb8;
+}
+.freebirdThemedTab .exportIndicator {
+    background-color: #04acb8;
+}
+.ds-hc-black .freebirdThemedTab .exportIndicator {
+    background-color: white;
+    -ms-high-contrast-adjust: none;
+}
+.ds-hc-white .freebirdThemedTab .exportIndicator {
+    background-color: black;
+    -ms-high-contrast-adjust: none;
+}
+.freebirdThemedTab .exportTab {
+    color: rgba(0, 0, 0, 0.5);
+}
+.m2 .freebirdThemedTab .exportTab {
+    color: #9AA0A6;
+}
+.freebirdThemedTab .exportTab.isSelected {
+    color: #04acb8;
+}
+.m2 .freebirdThemedTab .exportTab.isDisabled {
+    color: #70757a;
+    cursor: default;
+}
+.m2 .freebirdThemedTab .isDisabled + .exportIndicator {
+    background-color: #70757a;
+}
+.freebirdThemedTab .exportInk {
+    background-image: radial-gradient( circle farthest-side, rgba(4, 172, 184, 0.15), rgba(4, 172, 184, 0.15) 80%, rgba(4, 172, 184, 0) 100%);
+}
+.freebirdThemedTab .freebirdTabIcon {
+    fill: #5F6368;
+}
+.freebirdThemedTab .isSelected .freebirdTabIcon {
+    fill: #04acb8;
+}
+.freebirdThemedTab isDisabled .freebirdTabIcon,
+.freebirdThemedTab .isSelected.isDisabled.freebirdTabIcon {
+    fill: #9AA0A6;
+}
+.freebirdThemedDarkTab .exportTabPageButton {
+    fill: rgba(255, 255, 255, 1);
+}
+.freebirdThemedDarkTab .freebirdThemedDarkTabContent {
+    background-color: #FFF;
+}
+.freebirdThemedDarkTab .exportIndicator {
+    background-color: rgba(255, 255, 255, 1);
+}
+.ds-hc-black .freebirdThemedDarkTab .exportIndicator {
+    background-color: white;
+    -ms-high-contrast-adjust: none;
+}
+.ds-hc-white .freebirdThemedDarkTab .exportIndicator {
+    background-color: black;
+    -ms-high-contrast-adjust: none;
+}
+.freebirdThemedDarkTab {
+    background-color: #04acb8;
+}
+.freebirdThemedDarkTab .exportTab {
+    background-color: #04acb8;
+    color: rgba(255, 255, 255, 0.75);
+}
+.freebirdThemedDarkTab .exportTab.isSelected {
+    color: rgba(255, 255, 255, 1);
+}
+.freebirdThemedDarkTab .exportTab.isFocused {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+.freebirdThemedDarkTab .exportInk {
+    background-image: radial-gradient( circle farthest-side, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15) 80%, rgba(255, 255, 255, 0) 100%);
+}
+.freebirdThemedTextarea .exportFocusUnderline {
+    background-color: #04acb8;
+}
+.freebirdThemedTextarea .exportHint {
+    color: #04acb8;
+}
+.freebirdThemedTextarea.exportHasError .exportContent.exportUnderline,
+.freebirdThemedTextarea.exportHasError .exportContent.exportFocusUnderline {
+    background-color: #1d222b;
+}
+.quantumWizTextinputPaperinputInput:not([disabled]):focus ~ .quantumWizTextinputPaperinputFloatingLabel.exportLabel,
+.isFocused > .exportContent > .quantumWizTextinputPapertextareaFloatingLabel.exportLabel,
+.isFocused.modeDark > .exportContent > .quantumWizTextinputPapertextareaFloatingLabel.exportLabel {
+    color: #04acb8;
+}
+.freebirdThemedTextareaDarkerDisabled.isDisabled .exportInput[disabled] {
+    color: rgba(0, 0, 0, .87);
+}
+.freebirdThemedInput .exportFocusUnderline {
+    background-color: #04acb8;
+}
+.freebirdThemedInput .exportHint {
+    color: #04acb8;
+}
+.freebirdThemedInput.exportHasError .exportContent.exportUnderline,
+.freebirdThemedInput.exportHasError .exportContent.exportFocusUnderline {
+    background-color: #1d222b;
+}
+.freebirdThemedInputDarkerDisabled.isDisabled .exportInput[disabled] {
+    color: rgba(0, 0, 0, .87);
+}
+.freebirdThemedToggle.isChecked .exportThumb {
+    border-color: #04acb8;
+    color: rgba(255, 255, 255, 1);
+}
+.freebirdThemedToggle.isChecked > .exportTrack {
+    border-color: #434547;
+}
+.freebirdThemedToggle.isCheckedNext > .exportInk,
+.freebirdThemedToggle.isFocused > .exportInk {
+    background-color: rgba(4, 172, 184, 0.15);
+}
+.freebirdThemedToggleSwitch {
+    border-color: #04acb8;
+}
+.freebirdThemedToggleSwitch.isChecked {
+    background-color: #04acb8;
+    color: rgba(255, 255, 255, 1);
+}
+.freebirdFormviewerViewHeaderHeader.exportHeader {
+    margin-top: 12px;
+    background-color: #151617;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+    padding-top: 22px;
+    position: relative;
+}
+.freebirdDarkIconOnThemedBackground {
+    display: none;
+}
+.ds-hc-white .freebirdDarkIconOnThemedBackground {
+    display: block;
+}
+.ds-hc-white .freebirdLightIconOnThemedBackground {
+    display: none;
+}
+.freebirdHeaderCard {
+    background-image: url(https://lh4.googleusercontent.com/07Ll5wT-0ngV-ksyLOtJ5OrfIFmxiSO1ZPWPtr0wkcOcTFnESTCpMyXARagWxiAxx72NzPEQzGPZ7GiGt3MfwuQ9kMXZtuqz2rat1eEnDUINpNEkSRPmB0R_MWZN=w956);
+    background-size: cover;
+    background-position: center;
+}
+.freebirdHeaderCard.freebirdEditorHeaderCard {
+    max-height: 24.89539748953975vw;
+    max-width: 100vw;
+    height: 191.69456066945608px;
+    width: 770px;
+}
+.freebirdHeaderCard.freebirdViewerHeaderCard {
+    max-height: 22.405857740585773vw;
+    max-width: 90vw;
+    height: 159.3305439330544px;
+    width: 640px;
+}
+.freebirdHeaderMast {
+    background-image: url(https://lh4.googleusercontent.com/07Ll5wT-0ngV-ksyLOtJ5OrfIFmxiSO1ZPWPtr0wkcOcTFnESTCpMyXARagWxiAxx72NzPEQzGPZ7GiGt3MfwuQ9kMXZtuqz2rat1eEnDUINpNEkSRPmB0R_MWZN=w956);
+    background-size: cover;
+    background-position: center;
+    color: rgba(255, 255, 255, 1);
+}
+.exportSplash {
+    background-color: #04acb8;
+}
+.freebirdThemedDialog .exportTitleBarFullScreen,
+.freebirdThemedMobileDialog .exportTitleBarFullScreen,
+.freebirdThemedDialog .exportTitleBar,
+.freebirdThemedDialog .exportDialogClose,
+.freebirdThemedMobileDialog .exportDialogClose {
+    background-color: #04acb8;
+    color: rgba(255, 255, 255, 1);
+    fill: rgba(255, 255, 255, 1);
+}
+.ds-hc-black .freebirdThemedDialog,
+.ds-hc-black .freebirdThemedMobileDialog {
+    border: 2px solid white;
+}
+.ds-hc-white .freebirdThemedDialog,
+.ds-hc-white .freebirdThemedMobileDialog {
+    border: 2px solid black;
+}
+.freebirdThemedDialog .exportDefaultDialogButton {
+    color: #04acb8;
+}
+.freebirdThemedDialog.exportMobileDialog .exportDefaultDialogButton,
+.freebirdThemedMobileDialog.exportMobileDialog .exportDefaultDialogButton {
+    color: rgba(255, 255, 255, 1);
+}
+.freebirdThemedDialog .exportDefaultDialogButton .exportInk {
+    background-image: radial-gradient( circle farthest-side, rgba(4, 172, 184, 0.15), rgba(4, 172, 184, 0.15) 80%, rgba(4, 172, 184, 0) 100%);
+}
+.freebirdThemedDialog .exportDefaultDialogButton.isDisabled {
+    color: rgba(4, 172, 184, 0.5);
+}
+.freebirdThemedDialog .exportDefaultDialogButton.isFocused .exportOverlay {
+    background-color: rgba(4, 172, 184, 0.15);
+}
+.freebirdThemedDialog .exportTabPageButton {
+    background-color: #04acb8;
+}
+.freebirdThemedM2Dialog .exportTitleBarFullScreen,
+.freebirdThemedM2Dialog .exportTitleBar,
+.freebirdThemedM2Dialog .exportDialogClose {
+    color: #202124;
+    fill: #5F6368;
+}
+.ds-hc-black .freebirdThemedM2Dialog {
+    border: 2px solid white;
+}
+.ds-hc-white .freebirdThemedM2Dialog {
+    border: 2px solid black;
+}
+.freebirdThemedM2DialogButtons .exportDefaultDialogButton {
+    color: #04acb8;
+}
+.freebirdThemedM2DialogButtons .exportDefaultDialogButton .exportOverlay {
+    background-color: #04acb8;
+}
+.freebirdThemedM2DialogButtons .exportDefaultDialogButton .exportInk {
+    background-image: radial-gradient( circle farthest-side, rgba(4, 172, 184, 0.15), rgba(4, 172, 184, 0.15) 80%, rgba(4, 172, 184, 0) 100%);
+}
+.freebirdThemedM2DialogButtons .exportDefaultDialogButton:hover {
+    border-color: green;
+}
+.freebirdThemedM2DialogButtons .exportDefaultDialogButton.isDisabled {
+    color: rgba(4, 172, 184, 0.5);
+}
+.freebirdThemedM2DialogButtons .exportDefaultDialogButton.isDisabled:hover {
+    box-shadow: none;
+}
+.freebirdThemedM2DialogButtons .exportDefaultDialogButton.isActive.isActive {
+    box-shadow: 0px 2px 1px -1px rgba(4, 172, 184, 0.2), 0px 1px 1px 0px rgba(4, 172, 184, 0.14), 0px 1px 3px 0px rgba(4, 172, 184, 0.12);
+}
+.freebirdDarkOutline {
+    outline-style: solid;
+    outline-color: #04acb8;
+}
+.freebirdQuizResponse .isDisabled .freebirdDarkOutline {
+    outline-color: rgba(0, 0, 0, .54);
+}
+.freebirdLabeledControlDarkerDisabled.isDisabled .exportLabel {
+    color: rgba(0, 0, 0, .54);
+}
+.freebirdLabeledControlDarkerDisabled.isDisabled.isChecked .exportLabel,
+.freebirdLabeledControlDarkerDisabled.isDisabled.isIndeterminate .exportLabel {
+    color: rgba(0, 0, 0, .87);
+}
+.m2 .freebirdLabeledControlDarkerDisabled.isDisabled .exportLabel {
+    color: #70757a;
+}
+.m2 .freebirdLabeledControlDarkerDisabled.isDisabled.isChecked .exportLabel,
+.m2 .freebirdLabeledControlDarkerDisabled.isDisabled.isIndeterminate .exportLabel {
+    color: #202124;
+}
+.takeout .freebirdLabeledControlDarkerDisabled.isDisabled .exportLabel,
+.takeout .freebirdLabeledControlDarkerDisabled.isDisabled.isChecked .exportLabel,
+.takeout .freebirdLabeledControlDarkerDisabled.isDisabled.isIndeterminate .exportLabel {
+    color: black;
+}
+.freebirdLabeledControlDarkerDisabled.isDisabled .exportTooltip svg {
+    fill: rgba(0, 0, 0, .54);
+}
+.freebirdLabeledControlDarkerDisabled.isDisabled.isChecked .exportTooltip,
+.freebirdLabeledControlDarkerDisabled.isDisabled.isIndeterminate .exportTooltip svg {
+    fill: rgba(0, 0, 0, .87);
+}
+.freebirdThemedText {
+    color: #04acb8;
+}
+.freebirdSolidColor {
+    color: #04acb8;
+}
+.freebirdSolidBackground {
+    background-color: black;
+    color: rgba(255, 255, 255, 1);
+}
+.freebirdLightBackground {
+    background-color: rgb(217, 219, 226);
+}
+.freebirdUltraLightBackground {
+    background-color: rgba(4, 172, 184, 0.05);
+}
+.freebirdAccentBackground {
+    background-color: rgb(67, 71, 122);
+}
+.freebirdLighterBackgroundHover:hover {
+    background-color: rgba(4, 172, 184, 0.1);
+}
+.freebirdSolidFill {
+    fill: #04acb8;
+    stroke: #04acb8;
+}
+.freebirdTextFillClass {
+    fill: #04acb8;
+}
+.freebirdSolidBorder {
+    border-color: #04acb8;
+}
+.freebirdCustomFont,
+.m2 .freebirdCustomFont,
+.freebirdCustomFont .exportContentArea .exportTextarea,
+.m2 .freebirdCustomFont .exportContentArea .exportTextarea,
+.m2 .freebirdCustomFont .exportPlaceholder {}
+.freebirdDecorativeFont {
+    font-family: 'Parisienne', cursive;
+}
+.freebirdPlayfulFont {
+    font-family: 'Patrick Hand', fantasy;
+}
+.freebirdFormalFont {
+    font-family: 'Cormorant Garamond', serif;
+}
+.freebirdForegroundFill {
+    fill: rgba(255, 255, 255, 1)
+}
+.freebirdAccessibleGreyBackground {
+    background-color: rgb(91, 98, 104);
+}
+html:not([style-scope]):not(.style-scope).freebird,
+body:not([style-scope]):not(.style-scope).freebirdLightBackground {
+    background-color: #242526;
+}
+.freebirdDisclaimerColor, .freebirdDisclaimerColor a {
+    color: #70757a;
+}
