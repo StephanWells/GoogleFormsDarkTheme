@@ -1,3 +1,15 @@
+/* ==UserStyle==
+@name         Google Forms Dark Theme
+@version      1.0.0
+@description  A Dark theme for Google Forms
+@namespace    StephanWells
+@author       StephanWells
+@homepageURL  https://github.com/StephanWells/GoogleFormsDarkTheme
+@supportURL   https://github.com/StephanWells/GoogleFormsDarkTheme/issues
+@updateURL    https://raw.githubusercontent.com/StephanWells/GoogleFormsDarkTheme/master/google-forms-dark-theme.css
+@license      MIT
+==/UserStyle== */
+
 .freebirdFormeditorViewHeaderHeaderMast {
     background-color: #151617;
     border-color: black;
