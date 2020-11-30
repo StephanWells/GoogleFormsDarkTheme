@@ -10,7 +10,7 @@
 @license      MIT
 ==/UserStyle== */
 
-@-moz-document domain("forms.google.com") {
+@-moz-document regexp("(https://|http://)?docs.google.com/forms/.*") {
     .freebirdFormeditorViewHeaderHeaderMast {
         background-color: #151617;
         border-color: black;
