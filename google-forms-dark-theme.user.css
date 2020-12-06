@@ -71,7 +71,16 @@
     .freebirdFormviewerViewSubmissionDate {
         color: #70757a;
     }
+    .m2 .freebirdFormeditorDialogLinkformTitleInput .exportInput {
+        color: #dee0e3;
+    }
     .m2 .freebirdFormviewerViewHeaderDescription {
+        color: #dee0e3;
+    }
+    a {
+        color: #04acb8;
+    }
+    .m2 .freebirdFormeditorDialogLinkformLabelText {
         color: #dee0e3;
     }
     .m2 .freebirdAnalyticsViewQuestionTitle {
@@ -304,6 +313,13 @@
         background-color: #151617;
         border: 1px solid black;
     }
+    .appsMaterialWizDialogPaperdialogEl {
+        background-color: #151617;
+    }
+    freebirdThemedM2Dialog .exportTitleBarFullScreen, .freebirdThemedM2Dialog .exportTitleBar, .freebirdThemedM2Dialog .exportDialogClose {
+        color: #202124;
+        fill: #5F6368;
+    }
     .m2 .freebirdThemedRadioDarkerDisabled .isChecked.isDisabled .exportOuterCircle,
     .m2 .freebirdThemedRadioDarkerDisabled .isChecked.isDisabled .exportInnerCircle {
         border-color: #04acb8;
@@ -315,6 +331,20 @@
     .m2 .freebirdQuizResponse .freebirdThemedRadioDarkerDisabled .isChecked.isDisabled .exportInnerCircle,
     .m2 .takeout .freebirdThemedRadioDarkerDisabled .isDisabled .exportOuterCircle {
         border-color: #5F6368;
+    }
+    rect {
+    fill: #151617;
+    }
+    g g g rect {
+        fill: #04acb8;
+    }
+    g g path {
+        stroke: #151617;
+        fill: #202124;
+    }
+    g g g text {
+        fill: #dee0e3;
+        stroke-width: 0;
     }
     .freebirdThemedRadioRow.isChecked {
         background-color: rgb(217, 219, 226);
@@ -396,9 +426,11 @@
     .freebirdThemedTab .exportTab.isSelected {
         color: #04acb8;
     }
-    .m2 .freebirdThemedTab .exportTab.isDisabled {
+    .m2 .freebirdThemedTab .exportTab {
         color: #70757a;
-        cursor: default;
+    }
+    .m2 .freebirdThemedTab .exportTab.isDisabled {
+        color: #3C4043;
     }
     .m2 .freebirdThemedTab .isDisabled + .exportIndicator {
         background-color: #70757a;
@@ -455,7 +487,7 @@
         color: rgba(255, 255, 255, 1);
     }
     .freebirdThemedToggle.isChecked > .exportTrack {
-        border-color: #434547;
+        border-color: #b9b9b9;
     }
     .freebirdThemedToggle.isCheckedNext > .exportInk,
     .freebirdThemedToggle.isFocused > .exportInk {
@@ -502,8 +534,7 @@
     .freebirdThemedM2Dialog .exportTitleBarFullScreen,
     .freebirdThemedM2Dialog .exportTitleBar,
     .freebirdThemedM2Dialog .exportDialogClose {
-        color: #202124;
-        fill: #5F6368;
+        color: #dee0e3;
     }
     .ds-hc-black .freebirdThemedM2Dialog {
         border: 2px solid white;
