@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name         Google Forms Dark Theme
-@version      1.0.0
+@version      1.0.2
 @description  A Dark theme for Google Forms
 @namespace    StephanWells
 @author       StephanWells
@@ -358,6 +358,9 @@
     .freebirdThemedFlatButton {
         color: #04acb8;
     }
+        .quantumWizButtonPaperbuttonFlatColored, .quantumWizButtonPaperbuttonFlatColored a {
+        color: #04acb8;
+    }
     .freebirdThemedFlatButton.isDisabled {
         color: rgba(4, 172, 184, 0.5);
     }
@@ -401,6 +404,10 @@
     }
     .freebirdThemedProtectedButtonM2 .exportInk {
         background-image: radial-gradient( circle farthest-side, rgba(4, 172, 184, 0.15), rgba(4, 172, 184, 0.15) 80%, rgba(4, 172, 184, 0) 100%);
+    }
+    .quantumWizDialogPaperdialogEl {
+        background-color: #151617;
+        color: #dee0e3;
     }
     .freebirdThemedNav .exportTab.isSelected {
         background-color: rgba(4, 172, 184, 0.15);
