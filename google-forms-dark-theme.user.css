@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name         Google Forms Dark Theme
-@version      1.0.3
+@version      1.0.4
 @description  A Dark theme for Google Forms
 @namespace    StephanWells
 @author       StephanWells
@@ -198,6 +198,7 @@
     .quantumWizMenuPapermenuMenuItem.quantumWizMenuPapermenuOption.isChecked.appsMaterialWizMenuPapermenuItem.docsWizActionMenuMenuItem {
         background-color:#202124;
     }
+    
     .quantumWizMenuPapermenuMenuItem.isChecked::before {
         border-right: 2px solid #dee0e3;
         border-bottom: 2px solid #dee0e3;
@@ -467,6 +468,10 @@
     .freebirdThemedTab .isSelected.isDisabled.freebirdTabIcon {
         fill: #9AA0A6;
     }
+    .m2 .freebirdFormviewerViewFormContent {
+        color: #9AA0A6;
+        padding: 0;
+    }
     .freebirdThemedDarkTab .freebirdThemedDarkTabContent {
         background-color: #151617;
     }
@@ -590,7 +595,7 @@
     }
     .m2 .freebirdLabeledControlDarkerDisabled.isDisabled.isChecked .exportLabel,
     .m2 .freebirdLabeledControlDarkerDisabled.isDisabled.isIndeterminate .exportLabel {
-        color: #202124;
+        color: #dee0e3;
     }
     .freebirdThemedText {
         color: #04acb8;
